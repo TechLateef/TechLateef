@@ -19,14 +19,48 @@
  -<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-:telescope: I’m working as a Software Engineer and contributing to  backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-- :chart_with_upwards_trend: Currently diving into the world of Data Science.
-- :zap: In my free time, I solve problems on leetcode and read tech articles.
+You're absolutely right! Since you're actively working with Web3 and it's a major focus of your journey, we should include it prominently in your GitHub profile. Here's an updated structure for your GitHub README:
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mubarak-abdullateef-b8669b244/)
-- ### :hammer_and_wrench: Languages and Tools :
+Mubarak Abdullateef
+Software Engineer | Web3 Enthusiast | Python & Node.js | Golang | Lifelong Learner
+🌍 Based in: Abuja, Nigeria
+💡 Focus Areas:
+Building decentralized applications (dApps) on Ethereum and Polygon networks.
+Exploring the intersection of Web3 and traditional backend technologies.
+Backend development for scalable and secure web applications.
+🚀 Tech Stack
+Languages: Python, Node.js, Golang, Solidity
+Web3 Tools: Hardhat, Alchemy, IPFS
+Backend Tools: Express.js, Mongoose, TypeORM, Docker
+Databases: MongoDB, PostgreSQL
+Cloud & Deployment: AWS, Vercel, Serverless
+🌟 Featured Projects
+Flixsa: Cinema ticket booking platform.
+
+Stack: Node.js, Express, MongoDB
+Deployed on Vercel.
+Real Estate Platform: Full-stack web application.
+
+Stack: MERN (MongoDB, Express, React, Node.js).
+Supply Chain dApp: Decentralized application for tracking product and material flow.
+
+Stack: Solidity, Hardhat, Polygon (Mumbai Testnet).
+Appointment Booking Automation:
+
+Automated scheduling using web scraping and serverless deployment.
+🌐 Current Web3 Journey
+Deploying smart contracts on Ethereum and Polygon networks.
+Exploring Tokenomics and creating ERC-20 tokens.
+Integrating blockchain solutions into traditional web platforms.
+📚 Learning Goals for 2025
+Advance in blockchain architecture and Layer 2 solutions.
+Contribute to open-source Web3 libraries.
+Expand expertise in smart contract security.
+📫 Let's Connect
+LinkedIn: Mubarak Abdullateef
+Twitter: @tech_lateef
+GitHub: TechLateef- ### :hammer_and_wrench: Languages and Tools :
 - <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
