@@ -26,7 +26,7 @@ I’m a **Software Engineer** with a passion for exploring the intersection of *
 
 - 🌟 **Currently Working On:** Building decentralized applications (**dApps**) on Ethereum and Polygon networks.  
 - 🌱 **Learning:** Smart contract development, tokenomics, and Layer 2 solutions.  
-- 📈 **Exploring:** Web3 integrations, backend optimizations, and data science.  
+- 📈 **Exploring:** Web3 integrations and backend optimizations.  
 - 💻 **Hobbies:** Solving problems on LeetCode, contributing to open-source, and reading tech articles.  
 
 📬 **How to reach me:**  
