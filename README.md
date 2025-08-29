@@ -96,38 +96,6 @@ I'm a passionate **Backend Software Engineer** with expertise in building scalab
 - **Templates:** Dynamic HTML and Pug templates
 - **Status:** Published and maintained open-source package
 
----
-
-### 🏦 Core Banking APIs
-> **Fintech Platform** - AI-driven financial inclusion backend
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
-
-- **Modules:** KYC, wallet services, loan management
-- **Scale:** Supporting microfinance banks across Africa
-- **Architecture:** Microservices with high availability
-
----
-
-### 🎬 Flixsa
-> **Movie Booking Platform** - Complete backend for cinema ticket booking
-
-<div align="center">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-</div>
-
-- **Performance:** 25% API improvement through optimization
-- **Deployment:** DigitalOcean with SSL/TLS
-- **Features:** Real-time booking, payment integration
-
-
-
 ## 🎯 Current Focus
 
 <div align="center">
