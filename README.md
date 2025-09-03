@@ -56,12 +56,12 @@ I'm a passionate **Backend Software Engineer** with expertise in building scalab
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=techlateef&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techlateef&theme=radical" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=techlateef&theme=radical" alt="GitHub Streak" /> -->
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techlateef&layout=compact&theme=radical&hide=jupyter%20notebook,html,css&langs_count=6" alt="Top Languages" />
-</div>
+<!-- <div align="center"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techlateef&layout=compact&theme=radical&hide=jupyter%20notebook,html,css&langs_count=6" alt="Top Languages" /> -->
+<!-- </div> -->
 
 ---
 
