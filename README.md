@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Backend Software Engineer** with expertise in building scalable, high-performance APIs and microservices. I specialize in Node.js, Go, and Java development, with a focus on fintech solutions and system optimization.
+I'm a passionate **Software Engineer** with expertise in building scalable, high-performance APIs and microservices. I specialize in Node.js, Go, and Java development, with a focus on fintech solutions and system optimization.
 
 ### 🎯 What I Do
 - **API Development** - Building robust RESTful and GraphQL APIs
